@@ -1,0 +1,10 @@
+! xterm ----------------------------------------------------------------------
+xterm*loginShell: True
+xterm*background: gainsboro
+xterm*foreground: red
+xterm*scrollBar: true
+xterm*rightScrollBar: true
+xterm*foreground_bold: cyan
+xterm*cursor:magenta
+!xterm*saveLines: 10000
+!xterm.VT100.geometry: 120x35
